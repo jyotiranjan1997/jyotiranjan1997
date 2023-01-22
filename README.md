@@ -1,6 +1,6 @@
 ![MasterHead](https://developerariyan.com/wp-content/uploads/2021/03/coming_soon.gif)
 <h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is Jyotiranjan Mohanty</h1>
-<h3 align="center">I am a full-stack developer & also I like solving complicated problems. Because when I see problems it challenges me to do better things. As a developer I am always qurious to know about new technology and try to explore them.  </h3>
+<h3 align="center">I am a full-stack developer & also I like solving complicated problems. Because when I see problems, it challenges me to do better things. As a developer, I am always curious to know about new technology and try to explore them.  </h3>
 <p align="center"><img  width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/img> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotiranjan1997&label=Profile%20views&color=0e75b6&style=flat" alt="jyotiranjan1997" /> </p>
 
