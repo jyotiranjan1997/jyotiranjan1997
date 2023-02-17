@@ -20,9 +20,11 @@ FULL STACK DEVLOPER
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 
+
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Chakra_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Chakra_UI](https://img.shields.io/badge/-Chakra_UI-black?style=flat-square&logo=material-ui)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 ![React Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
