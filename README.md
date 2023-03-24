@@ -10,7 +10,7 @@ FULL STACK DEVLOPER
 
 * 🌍  I'm based in Jagatsinghpur, Odisha
 * ✉️  You can contact me at [mohanty.ryzen@gmail.com](mailto:mohanty.ryzen@gmail.com)
-* 🌍  You can see all my project and details on <a href="https://jyotiranjan1997.github.io">Protfolio </a> 
+* 🌍  You can see all my project and details on <a href="https://jyotiranjan1997.github.io">Portfolio </a> 
 * 🧠  I'm learning Full stack Devlopement
 * 🤝  I'm open to collaborating on Interesting Projects
 
